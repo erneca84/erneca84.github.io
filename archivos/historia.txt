@@ -8,7 +8,8 @@ regrese
 
 
 agrego HTML
---prueba de conflicto master -/-/
+
+**prueba para conflicto en MERGE**
 -------------------------
 -
 adicionocontenido
