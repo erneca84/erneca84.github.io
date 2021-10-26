@@ -1,3 +1,0 @@
-hola blog
-
-nurvo archivo blog.txt
